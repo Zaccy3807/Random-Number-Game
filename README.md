@@ -3,3 +3,4 @@ Random number guessing game, you can guess a number from a range of numbers. Bel
 Hard = 0, 100000
 Medium = 0, 10000
 Easy = 0, 1000
+It is realatively old so please don't judge me!
