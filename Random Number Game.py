@@ -9,7 +9,7 @@ gues = 0
 #credits
 print('-------------------------------------')
 print('Welcome to the random number game!')
-print('Made by Isaac Yeoman')
+print('Made by Zaccy3807')
 print('-------------------------------------')
 diff = 1
 #Difficulty Selection
